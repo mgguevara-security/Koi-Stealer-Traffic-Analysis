@@ -28,7 +28,7 @@ A través del análisis de los protocolos DHCP y ARP, se han determinado los sig
 
 > \*\*EVIDENCIA A: Identificación de Red\*\*
 
-> (HOST.png)
+> ![Evidencia Host](HOST.png)
 
 
 
@@ -95,6 +95,7 @@ Se identificó tráfico de salida persistente hacia una dirección IP reportada 
 2\. \*\*Remediación:\*\* Realizar un escaneo completo del equipo y proceder con el cambio de contraseñas de dominio para el usuario `Andrew afletcher`.
 
 3\. \*\*Bloqueo:\*\* Bloquear en el Firewall perimetral cualquier comunicación hacia el rango de la IP `79.124.78.197`.
+
 
 
 
